@@ -16,3 +16,11 @@ Guides:
 - Hello World
 - Colored printing
 - Exiting
+- CLI Arguments
+- CLI Options
+- Commands
+- CLI Parameter types
+- Subcommands
+- Multiple values
+- Prompt
+- Progress bar
