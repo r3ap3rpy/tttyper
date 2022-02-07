@@ -24,3 +24,5 @@ Guides:
 - Multiple values
 - Prompt
 - Progress bar
+- CLI app dir
+- Testing
