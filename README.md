@@ -26,3 +26,4 @@ Guides:
 - Progress bar
 - CLI app dir
 - Testing
+- Using click
